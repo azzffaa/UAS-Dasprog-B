@@ -101,8 +101,10 @@ int main()
   return 0;
 }
   
+
 ## Output 2
-  
-  ![Screenshot_20221219_150956](https://user-images.githubusercontent.com/121001743/208379508-142dce10-adc5-4f3c-97dc-6e71859e9634.png
+
+![Screenshot_20221219_150956](https://user-images.githubusercontent.com/121001743/208424208-2ec095e1-510e-4918-b9bb-b55bdb11d126.png)
+
 
 
